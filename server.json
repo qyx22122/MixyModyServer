@@ -1,0 +1,14 @@
+{
+  "name": "MixyModyServer",
+  "pack": "Minecraft",
+  "packId": 0,
+  "version": "1.12.2",
+  "isPatchedForLog4Shell": true,
+  "javaVersion": {
+    "component": "jre-legacy",
+    "majorVersion": 8
+  },
+  "isDev": false,
+  "mods": [],
+  "ignoredUpdates": []
+}
