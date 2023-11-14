@@ -1,5 +1,13 @@
 var allStages as string[] = [
 "AE2",
+"RefinedStorage",
+"StorageDrawers",
+"IC2",
+"Mekanism",
+"EnderIO",
+"NuclearCraft",
+"Thaumcraft",
+"Chisel",
 ];
 
 //AE Crafting Terminal
