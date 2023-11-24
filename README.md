@@ -1,5 +1,5 @@
 Prouction ready README.
-Changing soon.
+Not changing soon.
 
 ## Instalation
 - Run `docker build buildenv -t mixymodyserver.buildenv`
