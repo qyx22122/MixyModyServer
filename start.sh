@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar ./minecraft_server.1.12.2.jar
+java -jar ./forge-1.12.2-14.23.5.2860.jar
